@@ -1,0 +1,31 @@
+html {
+    width: 1000px;
+    align: center;
+    margin-left:auto;
+  margin-right:auto;
+}
+
+.row {
+    width:800px;
+    margin-bottom: 40px;
+    border: 1px solid #bf3e11;
+    border-radius: 0.2em;
+    align: center;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.span3 {
+width: 200px;
+    height:200px;
+}
+
+.span6 {
+margin-left:20px;
+}
+
+.careInfo {
+    margin-bottom: 5px;
+    
+}

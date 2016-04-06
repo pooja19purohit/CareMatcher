@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/pooja/Documents/NetBeansProjects/CareMatcher/web/header.jsp</file>
+            <file>file:/Users/pooja/Documents/NetBeansProjects/CareMatcher/web/footer.jsp</file>
+            <file>file:/Users/pooja/Documents/NetBeansProjects/CareMatcher/src/conf/persistence.xml</file>
+            <file>file:/Users/pooja/Documents/NetBeansProjects/CareMatcher/src/java/com/carematcher/control/RegistrationServlet.java</file>
+            <file>file:/Users/pooja/Documents/NetBeansProjects/CareMatcher/src/java/com/carematcher/business/Role.java</file>
+            <file>file:/Users/pooja/Documents/NetBeansProjects/CareMatcher/web/users.jsp</file>
+            <file>file:/Users/pooja/Documents/NetBeansProjects/CareMatcher/web/registration.jsp</file>
+            <file>file:/Users/pooja/Documents/NetBeansProjects/CareMatcher/web/header.html</file>
+            <file>file:/Users/pooja/Documents/NetBeansProjects/CareMatcher/src/java/com/carematcher/control/CarematcherSessionListener.java</file>
+            <file>file:/Users/pooja/Documents/NetBeansProjects/CareMatcher/web/profile.jsp</file>
+            <file>file:/Users/pooja/Documents/NetBeansProjects/CareMatcher/src/java/com/carematcher/control/LoginServlet.java</file>
+            <file>file:/Users/pooja/Documents/NetBeansProjects/CareMatcher/web/scripts/appointmentFormChange.js</file>
+            <file>file:/Users/pooja/Documents/NetBeansProjects/CareMatcher/src/java/com/carematcher/control/SearchServlet.java</file>
+            <file>file:/Users/pooja/Documents/NetBeansProjects/CareMatcher/web/home-alternate.jsp</file>
+            <file>file:/Users/pooja/Documents/NetBeansProjects/CareMatcher/web/searchResults.jsp</file>
+            <file>file:/Users/pooja/Documents/NetBeansProjects/CareMatcher/web/confirmation.jsp</file>
+            <file>file:/Users/pooja/Documents/NetBeansProjects/CareMatcher/web/index.jsp</file>
+            <file>file:/Users/pooja/Documents/NetBeansProjects/CareMatcher/web/home.jsp</file>
+            <file>file:/Users/pooja/Documents/NetBeansProjects/CareMatcher/web/WEB-INF/web.xml</file>
+            <file>file:/Users/pooja/Documents/NetBeansProjects/CareMatcher/src/java/com/carematcher/control/HomeServlet.java</file>
+        </group>
+    </open-files>
+</project-private>
